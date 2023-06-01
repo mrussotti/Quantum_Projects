@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HZ4n8K0AHVyeCezsCc7kxXh8SH2ZxhKqXxkDklq0d+AfgjD3s9DpWFajuc5z6S99i5zuT4B+mDx5wryz7MI0ew==",
+  "dgSpecHash": "sR6VBI6fnBueUTap3NU0N2/R1vH1/yDBLQyKR+8vxVtxmeXKM0IpPMR0dpp7XC/3hyg85ETiab/tB007Y1aeLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matth\\Bell\\QuantumRNG\\QuantumRNG\\QuantumRNG.csproj",
+  "projectFilePath": "c:\\Users\\matth\\ExploringSuperposition\\QuantumRNG\\QuantumRNG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matth\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\azure.identity\\1.5.0\\azure.identity.1.5.0.nupkg.sha512",
@@ -133,11 +133,7 @@
     "C:\\Users\\matth\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\windowsazure.storage\\9.3.3\\windowsazure.storage.9.3.3.nupkg.sha512",
-    "C:\\Users\\matth\\.nuget\\packages\\yamldotnet\\7.0.0\\yamldotnet.7.0.0.nupkg.sha512",
-    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
-    "C:\\Users\\matth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
-    "C:\\Users\\matth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+    "C:\\Users\\matth\\.nuget\\packages\\yamldotnet\\7.0.0\\yamldotnet.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
