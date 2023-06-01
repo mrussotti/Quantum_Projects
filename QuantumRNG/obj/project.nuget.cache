@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sR6VBI6fnBueUTap3NU0N2/R1vH1/yDBLQyKR+8vxVtxmeXKM0IpPMR0dpp7XC/3hyg85ETiab/tB007Y1aeLw==",
+  "dgSpecHash": "AHP9OERW2IjREGplyyr0wHqCNg9zmj89SDlPXl2eOudahK6sCTSEc7SlnrMN1rHI2Guna9FfWQZ5PMf9+WPyHQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\matth\\ExploringSuperposition\\QuantumRNG\\QuantumRNG.csproj",
+  "projectFilePath": "c:\\Users\\matth\\QuantumWorkspace2\\Quantum_Projects\\QuantumRNG\\QuantumRNG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matth\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\azure.identity\\1.5.0\\azure.identity.1.5.0.nupkg.sha512",

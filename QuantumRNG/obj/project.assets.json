@@ -7462,11 +7462,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\matth\\ExploringSuperposition\\QuantumRNG\\QuantumRNG.csproj",
+      "projectUniqueName": "c:\\Users\\matth\\QuantumWorkspace2\\Quantum_Projects\\QuantumRNG\\QuantumRNG.csproj",
       "projectName": "QuantumRNG",
-      "projectPath": "c:\\Users\\matth\\ExploringSuperposition\\QuantumRNG\\QuantumRNG.csproj",
+      "projectPath": "c:\\Users\\matth\\QuantumWorkspace2\\Quantum_Projects\\QuantumRNG\\QuantumRNG.csproj",
       "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\matth\\ExploringSuperposition\\QuantumRNG\\obj\\",
+      "outputPath": "c:\\Users\\matth\\QuantumWorkspace2\\Quantum_Projects\\QuantumRNG\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

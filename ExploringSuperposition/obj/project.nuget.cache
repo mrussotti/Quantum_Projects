@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gpJmUdL8uz/UPlOYljfS5gHwqpEN3xpdb+CPuKdkFN8cphzjpIvvvJ9k4PnpNv9H0SM4SbnNYEnrglGpCUUYMg==",
+  "dgSpecHash": "kvD2EGap13aft8ARa+J7hMXtxGyDOIoppylugk2F7UOxeICbrSj2Hb7Pufl0jSdwNoox5TN0EicdlCjURlUgBA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\matth\\ExploringSuperposition\\ExploringSuperposition\\ExploringSuperposition.csproj",
+  "projectFilePath": "c:\\Users\\matth\\QuantumWorkspace2\\Quantum_Projects\\ExploringSuperposition\\ExploringSuperposition.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matth\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\matth\\.nuget\\packages\\azure.identity\\1.5.0\\azure.identity.1.5.0.nupkg.sha512",
